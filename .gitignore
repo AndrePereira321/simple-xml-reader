@@ -1,0 +1,10 @@
+.bash_history
+.vscode/
+test/
+
+*.docx
+*.pptx
+*.xlsx
+*.xml
+*.rels
+*.exe
